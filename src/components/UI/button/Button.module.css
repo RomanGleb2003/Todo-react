@@ -1,0 +1,14 @@
+.myBtn{
+    padding: 5px 15px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #592196;
+    background: #1e76da;
+    border: 1px solid teal;
+    border-radius: 7px;
+    margin: 5px;
+}
+
+.myBtn:hover{
+    color: #f5cf04;
+}
